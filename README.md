@@ -52,7 +52,7 @@ The target variable in the model is **whether the lower-seeded team wins the gam
 
 | Region  | Lower Team        | Higher Team     | Reg. Season Pred | Hist. Pred | Blended Pred | Final Prediction | Correct Prediction? |
 |---------|------------------|-----------------|------------------|------------|--------------|------------------|---------------------|
-| South   | Auburn           | Alabama St      | 0.353            | 0.651      | 0.457        | **Auburn**        | ❓                  |
+| South   | Auburn           | Alabama St      | 0.353            | 0.651      | 0.457        | **Auburn**        | ✅                  |
 | South   | Louisville       | Creighton       | 0.473            | 0.469      | 0.472        | **Louisville**    | ❌                  |
 | South   | Texas A&M        | Yale            | 0.611            | 0.552      | 0.590        | **Texas A&M**     | ✅                  |
 | South   | Mississippi      | North Carolina  | 0.363            | 0.282      | 0.337        | **North Carolina**| ❓                  |
