@@ -60,13 +60,13 @@ The target variable in the model is **whether the lower-seeded team wins the gam
 | South   | Marquette        | New Mexico      | 0.846            | 0.616      | 0.766        | **Marquette**     | ❓                  |
 | South   | Michigan St      | Bryant          | 0.208            | 0.275      | 0.231        | **Bryant**        | ❓                  |
 | East    | Duke             | Mt St Mary's    | 0.930            | 0.382      | 0.738        | **Duke**          | ❓                  |
-| East    | Mississippi St   | Baylor          | 0.302            | 0.172      | 0.256        | **Baylor**        | ❓                  |
+| East    | Mississippi St   | Baylor          | 0.302            | 0.172      | 0.256        | **Baylor**        | ✅                  |
 | East    | Oregon           | Liberty         | 0.579            | 0.532      | 0.563        | **Oregon**        | ❓                  |
 | East    | Arizona          | Akron           | 0.583            | 0.631      | 0.606        | **Arizona**       | ❓                  |
 | East    | BYU              | VCU             | 0.432            | 0.637      | 0.504        | **BYU**           | ✅                  |
 | East    | Wisconsin        | Montana         | 0.010            | 0.224      | 0.085        | **Wisconsin**     | ✅                  |
 | East    | St Mary's CA     | Vanderbilt      | 0.485            | 0.728      | 0.570        | **St Mary's CA**  | ❓                  |
-| East    | Alabama          | Robert Morris   | 0.920            | 0.643      | 0.823        | **Alabama**       | ❓                  |
+| East    | Alabama          | Robert Morris   | 0.920            | 0.643      | 0.823        | **Alabama**       | ✅                  |
 | Midwest | Houston          | SIUE            | 0.79             |            | 0.79         | **Houston**       | ✅                  |
 | Midwest | Gonzaga          | Georgia         | 0.993            | 0.511      | 0.824        | **Gonzaga**       | ❓                  |
 | Midwest | Clemson          | McNeese St      | 0.414            | 0.330      | 0.385        | **McNeese St**    | ✅                  |
